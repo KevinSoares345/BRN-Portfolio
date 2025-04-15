@@ -1,5 +1,6 @@
-
 # Portfólio BRN
+![image](https://github.com/user-attachments/assets/5902aea7-70a8-4eed-82a5-883a7c1f60e4)
+
 
 Um projeto de Portfólio para um dev chamado BRN. Projeto básico criado apenas para testar alguns conhecimentos nas tecnológias mais básicas.
 
